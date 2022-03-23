@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a graduate student at University of Southern California majoring in Data Science.
+I'm looking for internship and Co-op opportunities for Summer and Fall semester 2022 in the Data Science, Machine Learning and Software Development domain.
+
+
 <!--
 **amitbirajdar/amitbirajdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
