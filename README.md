@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a graduate student at University of Southern California majoring in Data Science.
+I'm a graduate student at University of Southern California majoring in Data Science.\n
 I'm looking for internship and Co-op opportunities for Summer and Fall semester 2022 in the Data Science, Machine Learning and Software Development domain.
 
 
